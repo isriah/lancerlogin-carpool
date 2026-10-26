@@ -5,6 +5,10 @@
   "type": "module",
   "description": "Carpool ride planning for LancerLogin Modular, packaged as a module plugin.",
   "license": "Apache-2.0",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "verify:core": "node scripts/verify-with-core.mjs --core"
+  },
   "lancerlogin": {
     "moduleId": "carpool",
     "contract": 1,
