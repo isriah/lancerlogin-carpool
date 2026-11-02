@@ -3,7 +3,7 @@
   "title": "LancerLogin Carpool plugin",
   "core": {
     "repository": "isriah/LancerLogin",
-    "tag": "v2.0.0-beta.12",
-    "commit": "f0b98331f7b0c3f1bce9033e42bbd62d3f8ca9d9"
+    "tag": "v2.1.0-beta.4",
+    "commit": "43b45dbf720ecad5b4c9cbe14635ae12cad66105"
   }
 }
