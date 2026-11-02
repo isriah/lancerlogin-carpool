@@ -34,5 +34,13 @@
     "@lancerlogin/module-sdk": "^1.0.0",
     "leaflet": "^1.9.4",
     "react": "^19.1.1"
+  },
+  "devDependencies": {
+    "miniflare": "5.20261006.1-alpha"
+  },
+  "overrides": {
+    "miniflare": {
+      "undici": "7.30.1"
+    }
   }
 }
